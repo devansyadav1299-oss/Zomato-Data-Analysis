@@ -1,0 +1,13 @@
+Zomato-Data-Analysis/
+├── data/
+│   └── Zomato data .csv
+├── notebooks/
+│   └── Zomato_Data_Analysis.ipynb
+├── README.md
+└── requirements.txt
+DEPENDENCIES :
+Create a requirements.txt file containing the explicit software dependencies needed to reproduce your runtime environment:
+numpy
+pandas
+matplotlib
+seaborn
